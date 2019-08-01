@@ -2,7 +2,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-  <h1>Docuemnt one </h1>
+  <h1>Document One </h1>
 </head>
 
 <body>
