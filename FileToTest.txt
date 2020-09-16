@@ -1,3 +1,4 @@
 These are news things to commit
 I am changing in the master and will push to the Gitpod
 This is the new thing
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODQ3Y2E4MGEtZmRmNi00NTlkLWE3YmItZmVlODAwMjViZjMy%40thread.v2/0?context=%7b%22Tid%22%3a%22404b1967-6507-45ab-8a6d-7374a3f478be%22%2c%22Oid%22%3a%2221fd7e1a-f258-473e-8835-5b49a5dc02b9%22%2c%22IsBroadcastMeeting%22%3atrue%7d  
